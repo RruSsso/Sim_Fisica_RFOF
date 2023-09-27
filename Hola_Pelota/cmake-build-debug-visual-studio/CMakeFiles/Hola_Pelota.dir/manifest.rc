@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Raulf/CLionProjects/Hola_Pelota/cmake-build-debug-visual-studio/CMakeFiles/Hola_Pelota.dir/embed.manifest"
